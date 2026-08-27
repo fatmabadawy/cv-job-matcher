@@ -164,8 +164,3 @@ cd backend
 | `POST` | `/admin/scrape` | Trigger multi-site web scrapers |
 | `POST` | `/admin/build-index` | Rebuild FAISS vector index |
 
----
-
-## 📜 License
-
-Distributed under the **MIT License**. Free for educational and commercial use.
