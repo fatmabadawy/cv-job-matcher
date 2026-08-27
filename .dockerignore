@@ -1,0 +1,10 @@
+backend/venv
+backend/__pycache__
+backend/**/__pycache__
+backend/*.db
+backend/uploads
+backend/faiss_index
+frontend/node_modules
+frontend/dist
+.git
+*.md
